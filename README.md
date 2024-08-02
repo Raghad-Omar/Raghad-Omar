@@ -1,4 +1,4 @@
-<img   src="Banner.jpeg" >
+<img   src="Banner.jpeg" width=200%>
 <h1 align="center">Hi 👋, I'm Raghad Omar</h1>
 <h3 align="center">A passionate software developer from Palestine</h3>
 
